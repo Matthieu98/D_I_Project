@@ -1,3 +1,22 @@
+## Welcome to Outside Dell!
+
+Looking for a job? Do youu enjoy serving your community? Do you enjoy a great work environment where everyone wants you to succeed? Dell's your place, don't believe us? Take a look around and see for yourself, or listen to our testimonials to get some first hand experiences. We'll see your application whenever youre ready!
+
+Here is a link to our great LAUNCH program website [link](Matthieu98.github.io/Launchtest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Matthieu98/D_I_Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
