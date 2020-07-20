@@ -52,7 +52,7 @@
       {% endif %} -->
 
 
-      <span class="banner-fix"></span>
+<!--       <span class="banner-fix"></span>
       <select id="category_select" onclick="CategoryHandler();">
         <option value="http://Matthieu98.github.io/D_I_Project">Home</option>
         <option value="http://Matthieu98.github.io/D_I_Project/HomePage">Testimonials</option>
@@ -63,7 +63,23 @@
           var x = document.getElementsByID("category_select").value;
           window.location.href = x
         }
-      </script>
+      </script> -->
+      
+      <select id"category_select" onchange="document.location.href=this.value">
+        <option value="" selected>Look Around</option>
+        <option vale="http://www.Matthieu98.github.io/D_I_Project">Home</option>
+        <option value="http://www.Matthieu98.github.io/D_I_Project/HomePage">Testimonials</option>
+      </select>
+      
+<!--       <select size="1" name="jumpit" onchange="document.location.href=this.value"> 
+<option selected value="">Make a Selection</option>
+<option value="http://www.javascriptsource.com/">The JavaScript Source</option>
+<option value="http://www.javascript.com">JavaScript.com</option>
+<option value="http://www.webdeveloper.com/forum/forumdisplay.php?f=3">JavaScript Forums</option>
+<option value="http://www.scriptsearch.com/">Script Search</option>
+<option value="http://www.webreference.com/programming/javascript/diaries/">The JavaScript Diaries</option>
+</select>  -->
+
 
 
       <section id="main_content">
