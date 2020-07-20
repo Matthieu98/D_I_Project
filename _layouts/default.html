@@ -38,34 +38,6 @@
       </header>
       <br>
       <br><br><br>
-
-<!--       {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
-          </span>
-        </section>
-      {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      {% endif %} -->
-
-
-<!--       <span class="banner-fix"></span>
-      <select id="category_select" onclick="CategoryHandler();">
-        <option value="http://Matthieu98.github.io/D_I_Project">Home</option>
-        <option value="http://Matthieu98.github.io/D_I_Project/HomePage">Testimonials</option>
-        <option value="">Programs</option>
-      </select>
-      <script>
-        function CategoryHandler(){
-          var x = document.getElementsByID("category_select").value;
-          window.location.href = x
-        }
-      </script> -->
-      
       <select id"category_select" onchange="if (this.value) window.location.href = this.value">
         <option value="" selected>Look Around</option>
         <option vale="http://matthieu98.github.io/D_I_Project">Home</option>
@@ -88,20 +60,18 @@
       </section>
 
       <footer>
-<!--         <span class="ribbon-outer">
+        <span class="ribbon-outer">
           <span class="ribbon-inner">
-            {% if site.github.is_project_page %}
-              <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
-            {% if site.github.is_user_page %}
-              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
+            <span class="site-footer-credits">We hope you have found what you were looking for! Feel free to follow DellOnCampus on instagram by click this icon:</span>
+            <a href="https://www.instagram.com/delloncampus" class="fa fa-instagram"></a></br>
+            <span class="site-footer-credits">If you have any questions feel free to email us:</span>
+            <a href=""mailto:Matthieu_Tapolsky@dell.com"></a>Email</br>
+            <span class="site-footer-credits">Here is a link to our jobs page:</span>
+            <a href="https://www.glassdoor.ie/Overview/Working-at-Dell-Technologies-EI_IE1327.11,28.htm">Apply</a></br>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span> -->
       </footer>
 
     </div>
