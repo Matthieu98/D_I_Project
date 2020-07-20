@@ -53,6 +53,17 @@
 
 
       <span class="banner-fix"></span>
+      <select id="category_select" onclick="CategoryHandler();">
+        <option value="http://Matthieu98.github.io/D_I_Project">Home</option>
+        <option value="http://Matthieu98.github.io/D_I_Project/HomePage">Testimonials</option>
+        <option value="">Programs</option>
+      </select>
+      <script>
+        function CategoryHandler(){
+          var x = document.getElementsByID("category_select").value;
+          window.location.href = x
+        }
+      </script>
 
 
       <section id="main_content">
