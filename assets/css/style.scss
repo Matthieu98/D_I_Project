@@ -4,6 +4,11 @@
 @import "{{ site.theme }}";
 
 .btn {
-  color: white
+  color: white;
+}
+
+.btn:hover {
+ background-color: gray;
+ color: white;
 }
 
