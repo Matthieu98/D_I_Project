@@ -2,3 +2,19 @@
  ---
 
 @import "{{ site.theme }}";
+
+.fa {
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: -10px 1px;
+}
+
+.fa-instagram {
+  background: #CC3366;
+  color: white;
+  border-radius: 5px;
+  width: 15px;
+  height: 17px;
+}
