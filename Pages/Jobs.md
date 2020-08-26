@@ -1,4 +1,4 @@
-Welcome to the Jobs page! Hopefully at this point you've realized that Dell is the company for you. Below find some of our many different job offerings and a quick blurb about the job. Even if none of these jumps out at you, we have many more offerings, its just about finding the right fit for you! Email us with the link at the bottom and we can help you try to decide what career path is for you!<br /><br />
+Welcome to the Jobs page! Hopefully at this point you've realized that Dell is the company for you. Below find some of our many different job offerings and a quick blurb about the job. Even if none of these jumps out at you, we have many more offerings, its just about finding the right fit for you! Email us with the link at the bottom and we can help you try to decide what career path is for you, or click the apply button and take a look at what is near you!<br /><br />
 
 ### Presales
 Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure. For example:
