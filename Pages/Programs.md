@@ -9,6 +9,19 @@ GSAP is a program for etc. Go into more detail.
 <br /><br />
 
 ## Employee Resource Groups
-Employee Resource Groups, or ERG's are programs within Dell Technologies that allow you to meet people that are interested or affected by similar things as you. The ERG's include Black Networking ALliance, Pride, Mosaic, Women in Action, Latino Connection and more. These offer a place for everyone to meet others who are also interested in learning more and do activites together in your region to meet people like you or who are interested in the same thing. You should note that you do not have to be LGBTQ+ to be in Pride, you just have to believe that it is a good cause like with all the other groups.
-<br />
-Could do a small subsection about each of the ERG's; wasn't sure exactly what the goal for this page was.
+Employee Resource Groups, or ERGs are communities within Dell Technologies in which team members with common interests or backgrounds can come together to connect, learn and develop new skills, and impact the business. ERGs focus their annual programming around five key pillars: community, business innovation, professional development, team member experience and our unconscious bias foundational learning. <br />
+The ERG's within Dell Technologies are as follows:<br />
+* Asians In Action
+* Black Networking Alliance
+* Conexus
+* Family Balance
+* GenNext
+* Interfaith
+* Latino Connection
+* Mosaic
+* Planet
+* Pride
+* True Ability
+* Veterans & Supporters
+* Woman in Action
+
