@@ -1,7 +1,3 @@
-## Welcome to Outside Dell!
-
-KEEP THIS OR GET RID OF IT?? Looking for a job? Do you enjoy serving your community? Do you enjoy a great work environment where everyone wants you to succeed? Dell's your place, don't believe us? Take a look around and see for yourself, or listen to our testimonials to get some first hand experiences. We'll see your application whenever you're ready!
-
 ### Welcome to Outside Dell!
 *Quote from Michael about being at the center of human innovation* <br />
 ![Image](/photos/matthieu_tapolsky.jpg) <br/>
