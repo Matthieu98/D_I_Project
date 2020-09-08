@@ -6,25 +6,19 @@ Matt Keefe, Systems Engineer Manager, said that presales System Engineering is a
 Looking for a Presales internship? Here is a link to our LAUNCH program website [link](http://Matthieu98.github.io/Launchtest)
 <br /><br />
 ## Marketing
-Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure.<br />
 [Apply Today](https://jobs.dell.com/search-jobs/Marketing/)
 <br /><br />
 ## Sales
-Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure.<br />
 [Apply Today](https://jobs.dell.com/search-jobs/Sales/)
 <br /><br />
 ## Engineering
-Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure.<br />
 [Apply Today](https://jobs.dell.com/search-jobs/Engineering/)
 <br /><br />
 ### Human Resources
-Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure.<br />
 [Apply Today](https://jobs.dell.com/search-jobs/Human%20Resources/)
 <br /><br />
 ## IT Support
-Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure.<br />
 [Apply Today](https://jobs.dell.com/search-jobs/IT/)
 <br /><br />
 ### Finance
-Include blurb here about what the position entails or the skill set that someone sees as desirable for this position so that people coming to the website can see if a position is what they are looking for if they aren't sure.<br />
 [Apply Today](https://jobs.dell.com/search-jobs/Finance/)
