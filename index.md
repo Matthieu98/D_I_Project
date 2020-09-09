@@ -1,8 +1,18 @@
 ### Welcome to Outside Dell!
-*Quote from Michael about being at the center of human innovation* <br />
-![Image](/photos/matthieu_tapolsky.jpg) <br/>
-My name is Matthieu Tapolsky and I am a new hire here at Dell Technologies. When I tell people that I work for Dell I often get a small glimmer of understanding or a questioning look and the follow up "Adele? Like the singer?" and I have to explain "No, Dell Technologies, the laptop company". Everytime I say that though, I realize that I am shortselling the company I work for because like Michael said, we are at the center of human innovation. Hopefully by perusing through this website you can see that Dell is not just "the laptop company" but in reality is a company with many offerings that is driving human progress. <br />
-<br />
 
-Here is an example of the ways that Dell is helping to transform the world we live in for the better.<br />
-[![Alt text](https://img.youtube.com/vi/cRolZx8gjD8/0.jpg)](https://www.youtube.com/watch?v=cRolZx8gjD8)
+*INSERT PICUTRE HERE*
+# Project Imersion
+Increasing the number of underestimated minorities in the technologypipeline by building STEM programs that increase both technical and soft skills to suceed in this 4th industrial revolution</br>
+</br>
+| Our goal is to expose | We want to equip | We desire to employ |
+| :-------------------- | :--------------: | ------------------: |
+| diverse students at HBCUs/MSIs/HSIs to our emergin technologies | students with the skills needed to succeed in the digital enterprise | diverse talent and be seen as the "Employer of Choice" |
+</br>
+| Our goal is to expose diverse students at HBCUs/MSIs/HSIs to our emergin technologies | We want to equip students with the skills needed to succeed in the digital enterprise | We desire to employ diverse talent and be seen as the "Employer of Choice" |
+</br>
+
+*INSERT PICTURE HERE*
+# Strong Collaborations
+We make things happen when we work together. The Business Units, University Relations, Employee Resource Groups and Diversity & Inclusion create meaningful engagements that have an incredible impact on building relationships on campus.  Business Units need diverse employees to drive innovation.  University Relations need fresh high potential talent.  Employee Resource Groups want to pay it forward and invest their expertise into students.  Diversity & Inclusion wants to ensure that students are career ready and thrive in our culture.
+| Tawanna Atwater | Angela Harper | Robert Simmons |
+*TITLES WILL BE ADDED LATER
