@@ -2,14 +2,22 @@
 
 *INSERT PICUTRE HERE*
 # Project Imersion
-Increasing the number of underestimated minorities in the technology pipeline by building STEM programs that increase both technical and soft skills to suceed in this 4th industrial revolution</br>
+Increasing the number of underestimated minorities in the technology pipeline by building STEM programs that increase both technical and soft skills to suceed in this 4th industrial revolution
 <br />
+<br />
+
+| Our goal is to expose | We want to equip | We desire to employ |
+| :-------------------: | :--------------: | :-----------------: |
+| yayayayayayayayayayya | whoowhoowhoowhoo | horrayhorrayhorray  |
+<br />
+
 
 | Our goal is to expose | We want to equip | We desire to employ |
 | :-------------------: | :--------------: | :-----------------: |
 | diverse students at HBCUs/MSIs/HSIs to our emerging technologies | students with the skills needed to succeed in the digital enterprise | diverse talent and be seen as the "Employer of Choice" |
 <br />
 <br />
+
 
 | ![Image](/photos/strong_collabs.jpg)|
 | :---------------------------------: |
