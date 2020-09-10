@@ -6,6 +6,7 @@ Increasing the number of underestimated minorities in the technology pipeline by
 </br>
 | Our goal is to expose | We want to equip | We desire to employ |
 | :-------------------: | :--------------: | :-----------------: |
+| --- | --- | --- |
 | diverse students at HBCUs/MSIs/HSIs to our emerging technologies | students with the skills needed to succeed in the digital enterprise | diverse talent and be seen as the "Employer of Choice" |
 </br>
 | our goal is to expose | We want to equip | we desire to employ |
