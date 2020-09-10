@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
 title: Outside Dell
 description: Learn about inside Dell from the outside!
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
