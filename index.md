@@ -16,6 +16,6 @@ Increasing the number of underestimated minorities in the technology pipeline by
 We make things happen when we work together. The Business Units, University Relations, Employee Resource Groups and Diversity & Inclusion create meaningful engagements that have an incredible impact on building relationships on campus.  Business Units need diverse employees to drive innovation.  University Relations need fresh high potential talent.  Employee Resource Groups want to pay it forward and invest their expertise into students.  Diversity & Inclusion wants to ensure that students are career ready and thrive in our culture.
 </br>
 </br>
-| Tawanna Atwater boss | Angela Harper | Robert Simmons |
-| --------------- | ------------- | -------------- |
-| Head shoulders | Knees and | Toes |
+| Tawanna Atwater | Angela Harper | Robert Simmons |
+| :-------------: | :-----------: | :------------: |
+| Head shoulders  | Knees and     | Toes |
