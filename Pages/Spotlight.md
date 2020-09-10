@@ -1,5 +1,6 @@
 This will be the spotlight page. Will hold pictures and blurbs from people like Derek from email from tawanna
 # Project Imersion Explained
+<br /><br />
 
 ### What type of engagements do we have?
 Workshops, Panel Discussions, Tours, Classes, Webinars
