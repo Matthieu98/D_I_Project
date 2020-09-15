@@ -18,12 +18,10 @@ Derek also helped to establish a “Women of Dell” Panel which gave the young 
 <br />
 
 ##### What type of engagements do we have?
-Workshops, Panel Discussions, Tours, Classes, Webinars
-
-| ![Image](/../photos/speaker.jpg) |
-| :---------------------------: |
-| ![Image](/../photos/group_photo.jpg) |
-| ![Image](/../photos/students.jpg) |
+Workshops, Panel Discussions, Tours, Classes, Webinars. Below are some pictures from of these engagements!
+![Image](/../photos/speaker.jpg)
+![Image](/../photos/group_photo.jpg)
+![Image](/../photos/students.jpg)
 <br />
 
 ##### What content have we shared? 
