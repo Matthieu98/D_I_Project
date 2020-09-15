@@ -23,4 +23,4 @@ We make things happen when we work together. The Business Units, University Rela
 
 | Tawanna Atwater | Angela Harper | Robert Simmons |
 | :-------------: | :-----------: | :------------: |
-| Head shoulders  | Knees and     | Toes |
+| Director, Diversity & Inclusion STEM Entry/Re-Entry Program  | Director, Talent Innovation for Sales Engineering  | Manager, Talent Acquistion UR Diversity Manager |
