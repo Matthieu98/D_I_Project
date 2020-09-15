@@ -1,7 +1,7 @@
 # Project Imersion Explained
 <br /><br />
 ##### Spotlight
-![Image](/photos/derek_valentine.jpg) <br />
+![Image](/../photos/derek_valentine.jpg) <br />
 Derek Valentine is a Regional Sales Director for Secureworks for their Account Management Central region. He also serves as Chapter Founder/President of the Dell Technologies Black Networking Alliance Atlanta Chapter. 
  
 “My mission is to support Dell’s 2030 Progress Made Real Goals around Diversity & Inclusion.  I’m an alumni of Clark Atlanta University and I enjoy leading the BNA chapter, as the founding President, in support of Project Immersion programs such as Cybersecurity and Professional Development workshops.  We are making an impact by equipping diverse talent at the Atlanta University Center with the tools needed to succeed in the future workforce at Dell and other companies.”
@@ -20,10 +20,10 @@ Derek also helped to establish a “Women of Dell” Panel which gave the young 
 ##### What type of engagements do we have?
 Workshops, Panel Discussions, Tours, Classes, Webinars
 
-| ![Image](/photos/speaker.jpg) |
+| ![Image](/../photos/speaker.jpg) |
 | :---------------------------: |
-| ![Image](/photos/group_photo.jpg) |
-| ![Image](/photos/students.jpg) |
+| ![Image](/../photos/group_photo.jpg) |
+| ![Image](/../photos/students.jpg) |
 <br />
 
 ##### What content have we shared? 
