@@ -1,6 +1,4 @@
-# Project Imersion Explained
-<br /><br />
-##### Spotlight
+### Spotlight
 ![Image](/../photos/derek_valentine.jpg) <br />
 Derek Valentine is a Regional Sales Director for Secureworks for their Account Management Central region. He also serves as Chapter Founder/President of the Dell Technologies Black Networking Alliance Atlanta Chapter. 
  
@@ -9,7 +7,7 @@ Derek Valentine is a Regional Sales Director for Secureworks for their Account M
 Derek also helped to establish a “Women of Dell” Panel which gave the young women at Spelman College a glimpse of the careers that are available within the Tech field but also Dell Technologies in general.  Derek is also a firm believer in trying to elevate and advance current Black Professionals at Dell Technologies.  The Professional Development programs and Networking initiatives of their BNA Atlanta chapter has helped several members to secure promotions within Dell Technologies and helped members to secure opportunities within other Dell Family Business units.
 <br />
 
-##### Student Testimonials
+### Student Testimonials
 “I truly enjoyed the cybersecurity course and the time, energy, and resources that Dell poured into us students during the semester. I have learned so much about cyber risk, Dell technologies, and professionalism. I absolutely believe I left with many tools that I can use as a graduate starting my career.” - Ayanna Aziz, Spelman College
  
 “I enjoyed everything that you all provided for us in the AUC. I obtained my full time job as a Pre-Sales Engineer after first learning about the role in the Sales Engineering course last semester. You all are really making an impact on us students at HBCU’s and especially in the AUC.” - Hassan Thomas, Morehouse College
@@ -17,22 +15,22 @@ Derek also helped to establish a “Women of Dell” Panel which gave the young 
 “ I want to give a deep, long, and heartwarming thank you to Dell Technologies for awarding me the scholarship. All of you are deeply appreciated. It was much needed during this time. Thank you all for taking time out of your busy schedules to connect, mentor, and teach my Spelman and Morehouse peers and I. I appreciate all of the topics you taught. I found them to be very helpful and needed. I sent you all LinkedIn requests. My current resume is attached below. I am interested in working for Dell Technologies post-graduation.” - Jocelyn Reynolds, Spelman College
 <br />
 
-##### What type of engagements do we have?
+### What type of engagements do we have?
 Workshops, Panel Discussions, Tours, Classes, Webinars. Below are some pictures from of these engagements!
 ![Image](/../photos/speaker.jpg)
 ![Image](/../photos/group_photo.jpg)
 ![Image](/../photos/students.jpg)
 <br />
 
-##### What content have we shared? 
+### What content have we shared? 
 Will get additional info later
 Data Science, Cloud Foundations, Sales Engineering, Data Science,
 <br />
 
-##### How do I get an internship?
+### How do I get an internship?
 https://jobs.dell.com/category/internships-jobs/375-30225/24213/1
 <br />
 
-##### How can I learn more about the program?
+### How can I learn more about the program?
 Project Immersion is a collection of engagements that expose diverse students to our emerging technologies and core business functions. We want to change the narrative of diversity in the workplace by equipping students like you with the technical and professional acumen to be successful. Please join us in building a better, diverse future in tech.
 <br />
