@@ -15,11 +15,12 @@ Increasing the number of underestimated minorities in the technology pipeline by
 |  |  |  |
 
 
-| ![Image](/photos/strong_collabs.jpg) |
-| :---------------------------------: |
+![Image](/photos/strong_collabs.jpg)
 | Strong Collaborations |
-We make things happen when we work together. The Business Units, University Relations, Employee Resource Groups and Diversity & Inclusion create meaningful engagements that have an incredible impact on building relationships on campus.  Business Units need diverse employees to drive innovation.  University Relations need fresh high potential talent.  Employee Resource Groups want to pay it forward and invest their expertise into students.  Diversity & Inclusion wants to ensure that students are career ready and thrive in our culture.
+| :-------------------: |
+|We make things happen when we work together. The Business Units, University Relations, Employee Resource Groups and Diversity & Inclusion create meaningful engagements that have an incredible impact on building relationships on campus.  Business Units need diverse employees to drive innovation.  University Relations need fresh high potential talent.  Employee Resource Groups want to pay it forward and invest their expertise into students.  Diversity & Inclusion wants to ensure that students are career ready and thrive in our culture. |
 
+Project Immersion is possible due to strong collaborations between D&I, the Business Units and University Relations
 
 | Tawanna Atwater | Angela Harper | Robert Simmons |
 | :-------------: | :-----------: | :------------: |
