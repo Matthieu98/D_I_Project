@@ -23,12 +23,11 @@ Workshops, Panel Discussions, Tours, Classes, Webinars. Below are some pictures 
 <br />
 
 ### What content have we shared? 
-Will get additional info later
-Data Science, Cloud Foundations, Sales Engineering, Data Science,
+Data Science, Cloud Foundations, Sales Engineering
 <br />
 
 ### How do I get an internship?
-https://jobs.dell.com/category/internships-jobs/375-30225/24213/1
+[Click Here](https://jobs.dell.com/category/internships-jobs/375-30225/24213/1)
 <br />
 
 ### How can I learn more about the program?
