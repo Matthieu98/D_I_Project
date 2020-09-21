@@ -23,10 +23,11 @@ Workshops, Panel Discussions, Tours, Classes, Webinars. Below are some pictures 
 <br />
 
 ### What content have we shared? 
-Data Science, Cloud Foundations, Sales Engineering
+Supply Chain, Cloud Infrastructure, Desgin Thinking, Nuerodiversity, Data Science, Cyber Security, Sales Engineering, Systems Thinking, Professional Development
 <br />
-
+ 
 ### How do I get an internship?
+Most employers would like for students to have some level of experience before graduating from college. The best way to do that is through an internship or co-op. You can find more information about Dell's internships here:
 [Click Here](https://jobs.dell.com/category/internships-jobs/375-30225/24213/1)
 <br />
 
