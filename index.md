@@ -10,6 +10,14 @@ Project Immersion is a collection of engagements that expose diverse students to
 |  |  |  |
 
 
+|Our goal is to expose diverse students at HBCUs/MSIs/HSIs to our emerging technologies | We want to equip students with the skills needed to succeed in the digital enterprise | We desire to employ diverse talent and be seen a as the "Employer of Choice" |
+| :--------------: | :-------------: | :------------: |
+
+* Our goal is to expose diverse students at HBCUs/MSIs/HSIs to our emerging technologies
+* We want to equip students with the skills needed to succeed in the digital enterprise
+* We desire to employ diverse talent and be seen a as the "Employer of Choice"
+
+
 ![Image](/photos/strong_collabs.jpg)
 
 
