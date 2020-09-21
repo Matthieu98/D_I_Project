@@ -1,6 +1,5 @@
 ### Welcome to Outside Dell!
 
-*INSERT PICUTRE HERE*
 # Project Imersion
 Project Immersion is a collection of engagements that expose diverse students to our emerging technologies and core business functions. We want to change the narrative of diversity in the workplace by equipping students like you with the technical and professional acumen to be successful. Please join us in building a better, diverse future in tech. Project Immersion is looking to increase the number of underestimated minorities in the technology pipeline by building STEM programs that increase both technical and soft skills to suceed in this 4th industrial revolution.
 
