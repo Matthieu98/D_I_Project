@@ -8,11 +8,11 @@ Derek also helped to establish a “Women of Dell” Panel which gave the young 
 <br />
 
 ### Student Testimonials
-“I truly enjoyed the cybersecurity course and the time, energy, and resources that Dell poured into us students during the semester. I have learned so much about cyber risk, Dell technologies, and professionalism. I absolutely believe I left with many tools that I can use as a graduate starting my career.” - Ayanna Aziz, Spelman College
+“I truly enjoyed the cybersecurity course and the time, energy, and resources that Dell poured into us students during the semester. I have learned so much about cyber risk, Dell Technologies, and professionalism. I absolutely believe I left with many tools that I can use as a graduate starting my career.” - Ayanna Aziz, Spelman College
  
 “I enjoyed everything that you all provided for us in the AUC. I obtained my full time job as a Pre-Sales Engineer after first learning about the role in the Sales Engineering course last semester. You all are really making an impact on us students at HBCU’s and especially in the AUC.” - Hassan Thomas, Morehouse College
  
-“ I want to give a deep, long, and heartwarming thank you to Dell Technologies for awarding me the scholarship. All of you are deeply appreciated. It was much needed during this time. Thank you all for taking time out of your busy schedules to connect, mentor, and teach my Spelman and Morehouse peers and I. I appreciate all of the topics you taught. I found them to be very helpful and needed. I sent you all LinkedIn requests. My current resume is attached below. I am interested in working for Dell Technologies post-graduation.” - Jocelyn Reynolds, Spelman College
+“I want to give a deep, long, and heartwarming thank you to Dell Technologies for awarding me the scholarship. All of you are deeply appreciated. It was much needed during this time. Thank you all for taking time out of your busy schedules to connect, mentor, and teach my Spelman and Morehouse peers and I. I appreciate all of the topics you taught. I found them to be very helpful and needed. I sent you all LinkedIn requests. My current resume is attached below. I am interested in working for Dell Technologies post-graduation.” - Jocelyn Reynolds, Spelman College
 <br />
 
 ### What type of engagements do we have?
@@ -27,7 +27,7 @@ Supply Chain, Cloud Infrastructure, Desgin Thinking, Nuerodiversity, Data Scienc
 <br />
  
 ### How do I get an internship?
-Most employers would like for students to have some level of experience before graduating from college. The best way to do that is through an internship or co-op. You can find more information about Dell's internships here:
+Most employers would like for students to have some level of experience before graduating from college. The best way to do that is through an internship or co-op. You can find more information about Dell Technologies internships here:
 [Click Here](https://jobs.dell.com/category/internships-jobs/375-30225/24213/1)
 <br />
 
