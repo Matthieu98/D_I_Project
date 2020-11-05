@@ -5,24 +5,6 @@ Matt Keefe, Systems Engineer Manager, said that presales System Engineering is a
 [Apply Today](https://jobs.dell.com/search-jobs/Presales/)<br />
 Looking for a Presales internship? Here is a link to our LAUNCH program website [link](http://Matthieu98.github.io/Launchtest)
 <br /><br />
-## Marketing
-[Apply Today](https://jobs.dell.com/search-jobs/Marketing/)
-<br /><br />
-## Sales
-[Apply Today](https://jobs.dell.com/search-jobs/Sales/)
-<br /><br />
-## Engineering
-[Apply Today](https://jobs.dell.com/search-jobs/Engineering/)
-<br /><br />
-### Human Resources
-[Apply Today](https://jobs.dell.com/search-jobs/Human%20Resources/)
-<br /><br />
-## IT Support
-[Apply Today](https://jobs.dell.com/search-jobs/IT/)
-<br /><br />
-### Finance
-[Apply Today](https://jobs.dell.com/search-jobs/Finance/)
-<br /><br />
 ### Data Science
 Education Services had a Data Science webinar that explained the importance of diversity in tech as well as why diversity and inclusion are important to the business. Key executives like Brian Reaves (Chief Diversity & Inclusion Officer), Jen Felch (Chief Information Officer and Chief Digital Officer), Dough Schmidt (President of Services) and Najuma Atkins (Senior Vice President of Human Resources) discussed how diverse perspectives lead to solutions of business problems, innovation, and creation of better products and technologies. Data Scientists extract and decipher information hidden in massive data. We provide guidance in decision-making, by making use of modern data application tools.
 <br /><br />
@@ -30,4 +12,4 @@ Education Services had a Data Science webinar that explained the importance of d
 Dell Technical Direct Services provided training courses to Fayetteville State University and Clark Atlanta University. The program can take 8-16 weeks depending on if it is integrated into a class curriculum or a standalone session. The program is designed for sophomores and juniors pursuing Computer Science or similar technical degrees.
 <br /><br />
 ### Other Opportunities
-For other opportunities check out Dell roles on your school's handshake platform or [internX](https://theinternx.com/#students) if your school has a partnership with them.
+For other opportunities such as Marketing, Sales, Engineering, Human Resources, IT Support, and Finance check out Dell roles on your school's handshake platform or [internX](https://theinternx.com/#students) if your school has a partnership with them.
